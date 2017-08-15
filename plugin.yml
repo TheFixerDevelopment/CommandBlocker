@@ -2,5 +2,4 @@ name: CommandBlocker1
 version: 2.0.6
 api: [3.0.0-ALPHA6]
 author: Zeao
-description:
 main: Thunder33345\CommandBlocker\Main
